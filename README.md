@@ -65,4 +65,5 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```bash
   # miejsce na twoje notatki
+  Aplikacja utworzona w ramach zajec 22.06.2024 r.
   ```
